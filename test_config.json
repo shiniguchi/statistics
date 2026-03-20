@@ -1,0 +1,16 @@
+{
+  "design": {
+    "target_rate": 0.02,
+    "expected_rate": 0.01,
+    "alpha": 0.05,
+    "power": 0.8,
+    "two_sided": true,
+    "n_variants": 1
+  },
+  "computed": {
+    "planned_n": 1283,
+    "alpha_adjusted": 0.05,
+    "deff_icc": 1.4177,
+    "adjusted_n": 1819
+  }
+}
